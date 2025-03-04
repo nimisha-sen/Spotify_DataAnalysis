@@ -27,7 +27,7 @@ Perform Exploratory Data Analysis (EDA) to uncover trends and correlations.
 
 - Identify attributes that influence a song's popularity.
 
-- Optionally, build a Machine Learning Model to predict song popularity.
+- Build a Machine Learning Model to predict song popularity.
 
 ### Setup & Installation
 
